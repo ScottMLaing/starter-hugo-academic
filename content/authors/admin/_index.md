@@ -1,26 +1,26 @@
 ---
 title: Scott Laing
 role: Adjunct Professor of Finance
-avatar_filename: pic.jpg
+avatar_filename: avatar.jpg
 bio: Adjunct Professor | Financial Modeling | PhD Finance Candidate | Economics
   | ESG Research | Data Modeling
 interests: []
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: scottlai@buffalo.edu
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/ScottMLaing
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: Google Scholar
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/ScottMLaing
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
@@ -28,19 +28,20 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University at Buffalo School of Management
+    url: https://management.buffalo.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD Candidate in Finance
+      institution: University at Buffalo
+      year: 2023
+    - course: MS in Finance
+      institution: University at Buffalo
+      year: 2016
+    - course: BS in Actuarial Mathematics & BS in Finance (minors in Computer Science,
+        Economics, and Statistics)
+      institution: University at Buffalo
+      year: 2015
 superuser: true
 status:
   icon: ☕️
